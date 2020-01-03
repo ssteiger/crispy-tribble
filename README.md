@@ -4,7 +4,7 @@ An arcade game written with as little code as possible.
 
 ## Project plan for v0.1
 
-* [ ] Add basic file structure
+* [x] Add basic file structure
 
 DoD:
 
